@@ -1,0 +1,14 @@
+# React / Node
+node_modules/
+build/
+.env
+
+# .NET
+bin/
+obj/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
